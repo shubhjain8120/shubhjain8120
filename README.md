@@ -1,4 +1,4 @@
-! [logo](https://github.com/shubhjain8120/shubhjain8120/blob/main/LinkedIn%20banner%2001.png)
+![logo](https://github.com/shubhjain8120/shubhjain8120/blob/main/LinkedIn%20banner%2001.png)
 <h1 align="center">Hi 👋, I'm Shubham Jain</h1>
 <h3 align="center">A passionate app developer from India</h3>
 
