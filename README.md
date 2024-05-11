@@ -1,7 +1,7 @@
 ![logo](https://github.com/shubhjain8120/shubhjain8120/blob/main/LinkedIn%20banner%2001.png)
 <h1 align="center">Hi 👋, I'm Shubham Jain</h1>
 <h3 align="center">A passionate app developer from India</h3>
-<img align="right" alt="coding" width="400" src"https://github.com/shubhjain8120/shubhjain8120/blob/main/DmNr0_.gif">
+<img align="right" alt="coding" width="400" src"https://github.com/shubhjain8120/shubhjain8120/blob/main/download.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhjain8120&label=Profile%20views&color=0e75b6&style=flat" alt="shubhjain8120" /> </p>
 
